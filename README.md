@@ -1,9 +1,7 @@
 <div style="
     margin: 15px 0 15px 0;
 ">
-    <img src="https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png" style="
-    width: 250px;
-">
+    <img src="https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png" width="320" alt="Docker image">
 </div>
 
 # Docker File Examples
