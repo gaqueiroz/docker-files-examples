@@ -1,3 +1,11 @@
+<div style="
+    margin: 15px 0 15px 0;
+">
+    <img src="https://miro.medium.com/max/2404/1*JUOITpaBdlrMP9D__-K5Fw.png" style="
+    width: 250px;
+">
+</div>
+
 # Docker File Examples
 
 A repository in order to provide recipes for creating Dockerfile for frameworks, and languages
